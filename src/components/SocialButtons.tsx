@@ -14,7 +14,6 @@ const SocialButtons = ({ callbackURL = "/" }: { callbackURL?: string }) => {
     }
   };
 
-  
   const handleGithubSignIn = async () => {
     const { error } = await authClient.signIn.social({
       provider: "github",
