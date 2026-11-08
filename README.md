@@ -20,25 +20,7 @@
 5. **Better Auth দিয়ে অথেন্টিকেশন** — ইমেইল/পাসওয়ার্ড, Google ও GitHub লগইন, প্রোফাইল ও নাম আপডেট, টোস্ট নোটিফিকেশন
 6. মোবাইল, ট্যাবলেট ও ডেস্কটপ — সব স্ক্রিনে রেসপনসিভ
 
-## 🚀 Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-`.env` ফাইলে নিচের ভ্যালুগুলো দিন:
-
-```
-BETTER_AUTH_SECRET=
-BETTER_AUTH_URL=http://localhost:3000
-MONGODB_URL=
-GOOGLE_CLIENT_ID=
-GOOGLE_CLIENT_SECRET=
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
-```
 
 ## 🔗 Live Link
 
-(ডিপ্লয় করার পর এখানে লিংক বসান)
+https://bazardor-market-ph.vercel.app/
