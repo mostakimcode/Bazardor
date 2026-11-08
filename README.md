@@ -23,4 +23,4 @@
 
 ## 🔗 Live Link
 
-(ডিপ্লয় করার পর এখানে লিংক বসান)
+https://bazardor-market-ph.vercel.app/
