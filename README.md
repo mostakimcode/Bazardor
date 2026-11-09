@@ -1,6 +1,9 @@
 # 🛒 বাজার দর (BazarDor)
 
 প্রয়োজনীয় নিত্যপণ্যের দৈনিক বাজারদর এক নজরে দেখার একটি Next.js ওয়েব অ্যাপ। চাল, ডাল, তেল, সবজি, মাছ, মাংস, ডিম-দুধ ও মসলার আজকের দাম, দামের পরিবর্তন এবং বাজারভিত্তিক সর্বনিম্ন-সর্বাধিক-গড় দাম এক জায়গায় পাওয়া যায়।
+                                            -------------
+                                            
+A Next.js web application that provides a quick overview of the daily market prices of essential commodities. It brings together today's prices, price changes, and market-wise minimum, maximum, and average prices for rice, lentils, oil, vegetables, fish, meat, eggs, dairy products, and spices—all in one place.
 
 ## 🛠️ Technologies Used
 
@@ -13,12 +16,17 @@
 
 ## ✨ Key Features
 
-1. **লাইভ প্রাইস টিকার** — নেভবারের নিচে অসীমভাবে ঘুরতে থাকা দামের স্ট্রিপ (▲/▼ পরিবর্তনসহ)
-2. **আজ কোন পণ্যের দাম বাড়ল/কমল** — সবচেয়ে বেশি বাড়া ও কমা ৬টি করে পণ্য, বাংলা অঙ্কে
-3. **বাজারভিত্তিক বিস্তারিত দাম** — প্রতিটি পণ্যের সর্বনিম্ন, সর্বাধিক ও গড় দাম (সুরক্ষিত পেজ)
-4. **ক্যাটাগরি পেজ ও সর্টিং** — দাম কম থেকে বেশি / বেশি থেকে কম, স্কেলিটন লোডিং ও এম্পটি স্টেট সহ
-5. **Better Auth দিয়ে অথেন্টিকেশন** — ইমেইল/পাসওয়ার্ড, Google ও GitHub লগইন, প্রোফাইল ও নাম আপডেট, টোস্ট নোটিফিকেশন
-6. মোবাইল, ট্যাবলেট ও ডেস্কটপ — সব স্ক্রিনে রেসপনসিভ
+1. Live Price Ticker — An infinitely scrolling price strip below the navbar, featuring price change indicators (▲/▼).
+
+2. Today's Biggest Price Increases/Decreases — Display the top 6 products with the highest price increases and the top 6 with the highest price decreases, using Bengali numerals.
+
+3. Market-Wise Detailed Pricing — Display the minimum, maximum, and average price of each product across different markets (protected page).
+
+4. Category Pages & Sorting — Include sorting options (Price: Low to High / High to Low), skeleton loading states, and empty states.
+
+5. Authentication with Better Auth — Email/password authentication, Google and GitHub login, profile management, name updates, and toast notifications.
+
+6. Fully Responsive Design — Optimized for mobile, tablet, and desktop screens.
 
 
 ## 🔗 Live Link
