@@ -8,7 +8,7 @@ const Marquee = async () => {
 
   return (
     <div className="border-b border-gray-200 bg-card text-sm">
-      <MarqueeText className="py-2" direction="left" duration={120} pauseOnHover>
+      <MarqueeText className="py-2" direction="right" duration={20} pauseOnHover>
         {products.map((p) => {
           const { dir, pct } = p.change;
           const color =
