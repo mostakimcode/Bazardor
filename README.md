@@ -2,7 +2,7 @@
 
 প্রয়োজনীয় নিত্যপণ্যের দৈনিক বাজারদর এক নজরে দেখার একটি Next.js ওয়েব অ্যাপ। চাল, ডাল, তেল, সবজি, মাছ, মাংস, ডিম-দুধ ও মসলার আজকের দাম, দামের পরিবর্তন এবং বাজারভিত্তিক সর্বনিম্ন-সর্বাধিক-গড় দাম এক জায়গায় পাওয়া যায়।
 
-                                            -------------
+
 
 A Next.js web application that provides a quick overview of the daily market prices of essential commodities. It brings together today's prices, price changes, and market-wise minimum, maximum, and average prices for rice, lentils, oil, vegetables, fish, meat, eggs, dairy products, and spices—all in one place.
 
